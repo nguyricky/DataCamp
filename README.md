@@ -11,3 +11,6 @@ This GitHub repository is your window into my journey through the exciting world
 
 ## 📚 Courses Completed
 Stay updated with the list of DataCamp courses I've successfully completed, complete with dates and course ratings.
+
+## 📈 Skills Gained
+Explore the specific skills, tools, and technologies I've learned throughout my DataCamp journey. From Python programming and data manipulation to machine learning and data visualization, I'm constantly building a diverse skill set.
