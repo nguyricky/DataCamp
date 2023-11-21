@@ -16,5 +16,3 @@ Explore the specific skills, tools, and technologies I've learned throughout my 
 ## 🏆 Achievements
 Celebrate my milestones and achievements, such as course certifications, projects completed, and any special recognitions earned during my learning journey.
 
-## 🧪 Projects
-Discover the practical applications of what I've learned by checking out the data science projects I've worked on. Get a glimpse of the real-world scenarios I've tackled and the solutions I've developed.
