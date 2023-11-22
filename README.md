@@ -10,9 +10,6 @@ Welcome to my DataCamp Progress Tracker
 ## 📚 Courses Completed
 Stay updated with the list of DataCamp courses I've successfully completed.
 
-## 📈 Skills Gained
-Explore the specific skills, tools, and technologies I've learned throughout my DataCamp journey. From Python programming and data manipulation to machine learning and data visualization, I'm constantly building a diverse skill set.
-
 ## 🏆 Achievements
 Celebrate my milestones and achievements, such as course certifications, projects completed, and any special recognitions earned during my learning journey.
 
